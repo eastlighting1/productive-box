@@ -1,4 +1,4 @@
-될 때까지 : /
+될 때까지 : //
 
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
