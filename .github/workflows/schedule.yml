@@ -12,6 +12,6 @@ jobs:
       - name: Update gist
         uses: maxam2017/productive-box@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GH_TOKEN: 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
+          GIST_ID: https://gist.github.com/eastlighting1/gist:a662cce1eaefed97b7e584cd531a9b2c
           TIMEZONE: Asia/Seoul
